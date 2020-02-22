@@ -18,5 +18,8 @@
   "homepage": "https://github.com/d5tran/cypress-project#readme",
   "devDependencies": {
     "cypress": "^4.0.1"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
   }
 }
